@@ -1,0 +1,26 @@
+Copyright (c) 2026 Julien Mer. All Rights Reserved.
+
+This source code is made available on GitHub for evaluation purposes only:
+to demonstrate the capabilities of the OculiX visual automation framework
+in a mainframe automation context (IBM i / 5250 protocol).
+
+No part of this repository — including but not limited to the Java source
+code, the reference PNG images, the recorded video, and the accompanying
+documentation — may be:
+
+  - copied, reproduced, or redistributed in whole or in part,
+  - modified, adapted, or used as the basis for derivative works,
+  - used for commercial purposes, internal production use, or client
+    deliverables,
+  - re-hosted on any other repository, mirror, or archive,
+
+without the prior express written authorization of the copyright holder.
+
+Cloning this repository for local, personal evaluation on your own
+machine is permitted. Any use beyond that requires contacting the
+copyright holder for a written license.
+
+Contact: https://www.linkedin.com/in/julienmer/
+
+This is a demonstration of a commercial capability. If you would like
+to use this pattern in your production environment, please get in touch.

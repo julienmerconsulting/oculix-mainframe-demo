@@ -1,0 +1,6 @@
+*.class
+*.jar
+ffmpeg.log
+debug.png
+.DS_Store
+Thumbs.db
