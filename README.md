@@ -26,9 +26,9 @@ Se connecte à un serveur public IBM i (PUB400.com) via l'émulateur tn5250j, ta
 
 ## Preuve visuelle
 
-<video src="https://github.com/julienmerconsulting/oculix-mainframe-demo/raw/master/demo_pub400_run.mp4" controls width="720"></video>
+![Démo OculiX Mainframe end-to-end](demo.gif)
 
-📹 [Télécharger la vidéo MP4 (~1.2 MB, 11s)](demo_pub400_run.mp4) — ou en MKV : [demo_pub400_run.mkv](demo_pub400_run.mkv)
+📹 Version vidéo haute qualité : [demo_pub400_run.mp4](demo_pub400_run.mp4) (1.2 MB, 11s) — ou en MKV : [demo_pub400_run.mkv](demo_pub400_run.mkv)
 
 Timing mesuré end-to-end (dans la vidéo — ffmpeg démarre après le startup JVM invisible) :
 
